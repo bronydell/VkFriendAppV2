@@ -1,4 +1,4 @@
-package com.example.telegram
+package com.eugene.frenz
 
 import org.junit.Test
 
